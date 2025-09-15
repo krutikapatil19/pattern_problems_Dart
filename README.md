@@ -1,0 +1,1 @@
+Dart / Flutter pattern printing practice project. A collection of simple console-programs written in Dart to build logic skills via pattern printing. Ideal for novices learning fundamentals like loops, conditionals, and basic algorithmic thinking, with an eye toward Flutter development .
